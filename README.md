@@ -45,5 +45,3 @@ OWA 리디렉션 설정을 통해 사용자가 안전하게 OWA에 접근할 수
 - [Outlook Web App (OWA) HTTP to HTTPS Redirection](https://itblog.ldlnet.net/index.php/2019/10/07/outlook-web-app-owa-http-to-https-redirection/)
 
 ---
-
-이 보고서가 도움이 되었기를 바랍니다. 추가로 궁금한 사항이 있으면 언제든지 말씀해 주세요!
